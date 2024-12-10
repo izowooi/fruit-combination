@@ -44,6 +44,7 @@ def main():
 
         if os.path.exists(output_path):
             print(f"이미지 이미 존재: {output_path}")
+            index += 1
             continue
         try:
             response = requests.get(url, headers=headers)
