@@ -10,7 +10,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KANGKYUNGSOOK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 2,
@@ -23,7 +24,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KANGDAESIK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 3,
@@ -36,7 +38,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KANGDEUKGU",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 4,
@@ -49,7 +52,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KANGMYOUNGGU",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 5,
@@ -62,7 +66,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KANGMINKUK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 6,
@@ -75,7 +80,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KANGSUNYOUNG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 7,
@@ -88,7 +94,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KANGSUNWOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 8,
@@ -101,7 +108,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KangSeungKyoo",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 9,
@@ -114,7 +122,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KANGYUJUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 10,
@@ -127,7 +136,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KANGJUNHYEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 11,
@@ -140,7 +150,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KANGHOONSIK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 12,
@@ -153,7 +164,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KOHDONGJIN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 13,
@@ -166,7 +178,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KOMINJUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 14,
@@ -179,7 +192,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KWAKKYUTAEK",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 15,
@@ -192,7 +206,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KWAKSANGEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 16,
@@ -205,7 +220,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KUJAKEUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 17,
@@ -218,7 +234,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "KWEONSEONGDONG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 18,
@@ -231,7 +248,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "KWONYOUNGSE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 19,
@@ -244,7 +262,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KwonYoungJin",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 20,
@@ -257,7 +276,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KWONCHILSEUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 21,
@@ -270,7 +290,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KWONHYANGYUP",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 22,
@@ -283,7 +304,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KIMGUNN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 23,
@@ -296,7 +318,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMKYOHEUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 24,
@@ -309,7 +332,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMKIWOONG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 25,
@@ -322,7 +346,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMGIPYO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 26,
@@ -335,7 +360,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "KIMGIHYEON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 27,
@@ -348,7 +374,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMNAMGEUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 28,
@@ -361,7 +388,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMNAMHEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 29,
@@ -374,7 +402,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMDAISIK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 30,
@@ -387,7 +416,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "KIMDOEUP",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 31,
@@ -400,7 +430,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMDONGAH",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 32,
@@ -413,7 +444,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMMOONSOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 33,
@@ -426,7 +458,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMMIAE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 34,
@@ -439,7 +472,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "KIMMINSEOK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 35,
@@ -452,7 +486,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KIMMEENGEON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 36,
@@ -465,7 +500,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMBYUNGKEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 37,
@@ -478,7 +514,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMBYUNGJOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 38,
@@ -491,7 +528,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMSANGWOOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 39,
@@ -504,7 +542,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "KIMSANGHOON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 40,
@@ -517,7 +556,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMSEOKKI",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 41,
@@ -530,7 +570,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMSUNGYO",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 42,
@@ -543,7 +584,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KIMSUNMIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 43,
@@ -556,7 +598,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMSUNGWON",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 44,
@@ -569,7 +612,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMSUNGWHAN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 45,
@@ -582,7 +626,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMSUNGHOI",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 46,
@@ -595,7 +640,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KIMSOHEE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 47,
@@ -608,7 +654,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMSEUNGSU",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 48,
@@ -621,7 +668,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMSEUNGWON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 49,
@@ -634,7 +682,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMYOUNGBAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 50,
@@ -647,7 +696,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMYOUNGJIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 51,
@@ -660,7 +710,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMYOUNGHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 52,
@@ -673,7 +724,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMYOUNGWHAN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 53,
@@ -686,7 +738,8 @@
         "times": "재선",
         "election": "비례대표",
         "en_name": "KIMYEAJI",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 54,
@@ -699,7 +752,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMYONGMAN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 55,
@@ -712,7 +766,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMYONGMIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 56,
@@ -725,7 +780,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "YONGTAEKIM",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 57,
@@ -738,7 +794,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMWOOYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 58,
@@ -751,7 +808,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMWONI",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 59,
@@ -764,7 +822,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KIMWISANG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 60,
@@ -777,7 +836,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KIMYOON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 61,
@@ -790,7 +850,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMYUNDUCK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 62,
@@ -803,7 +864,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMEUNHYE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 63,
@@ -816,7 +878,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KIMJANGKYOM",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 64,
@@ -829,7 +892,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMJAESUB",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 65,
@@ -842,7 +906,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "JAEWONK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 66,
@@ -855,7 +920,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMJUNGJAE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 67,
@@ -868,7 +934,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMJUNGHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 68,
@@ -881,7 +948,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMJONGMIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 69,
@@ -894,7 +962,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMJONGYANG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 70,
@@ -907,7 +976,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMJUYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 71,
@@ -920,7 +990,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMJUNHYUK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 72,
@@ -933,7 +1004,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "KIMJOONHYUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 73,
@@ -946,7 +1018,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "KIMTAENYEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 74,
@@ -959,7 +1032,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMTAESEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 75,
@@ -972,7 +1046,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "KIMTAEHO",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 76,
@@ -985,7 +1060,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMHANKYU",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 77,
@@ -998,7 +1074,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMHyun",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 78,
@@ -1011,7 +1088,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "KIMHYUNJUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 79,
@@ -1024,7 +1102,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "KIMHYUNGDONG",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 80,
@@ -1037,7 +1116,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "KIMHeeJung",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 81,
@@ -1050,7 +1130,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "NAKYUNGWON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 82,
@@ -1063,7 +1144,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "NAMINSOON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 83,
@@ -1076,7 +1158,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "NOHJONGMYUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 84,
@@ -1089,7 +1172,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "MAENGSUNGKYU",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 85,
@@ -1102,7 +1186,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "MOGYEONGJONG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 86,
@@ -1115,7 +1200,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "MUNGEUMJU",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 87,
@@ -1128,7 +1214,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "MOONDAELIM",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 88,
@@ -1141,7 +1228,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "MOONJEONGBOG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 89,
@@ -1154,7 +1242,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "MOONJINSEOG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 90,
@@ -1167,7 +1256,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "MINBYOUNGDUG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 91,
@@ -1180,7 +1270,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "MINHYUNGBAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 92,
@@ -1193,7 +1284,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "MINHONGCHUL",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 93,
@@ -1206,7 +1298,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKKYOONTAEK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 94,
@@ -1219,7 +1312,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "PARKDAECHUL",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 95,
@@ -1232,7 +1326,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "PARKDUKHYUM",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 96,
@@ -1245,7 +1340,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKMINKYU",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 97,
@@ -1258,7 +1354,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "PARKBEOMKYE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 98,
@@ -1271,7 +1368,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKSANGWOONG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 99,
@@ -1284,7 +1382,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "PARKSANGHYUK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 100,
@@ -1297,7 +1396,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKSUNWON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 101,
@@ -1310,7 +1410,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "PARKSEONGMIN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 102,
@@ -1323,7 +1424,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "PARKSUNGJOON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 103,
@@ -1336,7 +1438,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKSUNGHOON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 104,
@@ -1349,7 +1452,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKSOOMIN",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 105,
@@ -1362,7 +1466,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "PARKSOOYOUNG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 106,
@@ -1375,7 +1480,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "PARKSooHyun",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 107,
@@ -1388,7 +1494,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKYONGKAB",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 108,
@@ -1401,7 +1508,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "PARKEUNJUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 109,
@@ -1414,7 +1522,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "PARKJEUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 110,
@@ -1427,7 +1536,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "PARKJEONGHA",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 111,
@@ -1440,7 +1550,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKJEONGHYEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 112,
@@ -1453,7 +1564,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKJEONGHUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 113,
@@ -1466,7 +1578,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "PARKJUMIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 114,
@@ -1479,7 +1592,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "PARKJUNTAE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 115,
@@ -1492,7 +1606,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "PARKJIEWON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 116,
@@ -1505,7 +1620,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKJEEHYE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 117,
@@ -1518,7 +1634,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "PARKCHANDAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 118,
@@ -1531,7 +1648,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "PARKCHOONGKWON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 119,
@@ -1544,7 +1662,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKHAECHEOL",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 120,
@@ -1557,7 +1676,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "PARKHYEUNGSOO",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 121,
@@ -1570,7 +1690,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "PARKHONGKEUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 122,
@@ -1583,7 +1704,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "PARKHONGBAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 123,
@@ -1596,7 +1718,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "PARKHEESEONG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 124,
@@ -1609,7 +1732,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "BAEJUNEYOUNG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 125,
@@ -1622,7 +1746,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "BAEHYUNJIN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 126,
@@ -1635,7 +1760,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "BAKSEUNGA",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 127,
@@ -1648,7 +1774,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "BAEKJONGHEAN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 128,
@@ -1661,7 +1788,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "BACKHYERYUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 129,
@@ -1674,7 +1802,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "BOKKIWANG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 130,
@@ -1687,7 +1816,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "BOOSEUNGCHAN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 131,
@@ -1700,7 +1830,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "SUHMYUNGOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 132,
@@ -1713,7 +1844,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "SEOMIHWA",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 133,
@@ -1726,7 +1858,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "SUHBUMSOO",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 134,
@@ -1739,7 +1872,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SEOSAMSEOK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 135,
@@ -1752,7 +1886,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "SEOYOUNGKYO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 136,
@@ -1765,7 +1900,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "SEOYOUNGSEOK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 137,
@@ -1778,7 +1914,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "SEOWANGJIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 138,
@@ -1791,7 +1928,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "SEOILJUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 139,
@@ -1804,7 +1942,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "SEOJIYOUNG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 140,
@@ -1817,7 +1956,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "SUHCHEONHO",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 141,
@@ -1830,7 +1970,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SUNGILJONG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 142,
@@ -1843,7 +1984,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SOBYUNGHOON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 143,
@@ -1856,7 +1998,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "SONMYOUNGSOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 144,
@@ -1869,7 +2012,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SONGKIHUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 145,
@@ -1882,7 +2026,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SONGSEOGJUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 146,
@@ -1895,7 +2040,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SONGEONSEOG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 147,
@@ -1908,7 +2054,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SONGOKJOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 148,
@@ -1921,7 +2068,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "SONGJAEBONG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 149,
@@ -1934,7 +2082,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "SHINDONGUK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 150,
@@ -1947,7 +2096,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SHINSungBum",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 151,
@@ -1960,7 +2110,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "SHINYEONGDAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 152,
@@ -1973,7 +2124,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "SHINCHANGSIK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 153,
@@ -1986,7 +2138,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "SHINJEONGHOON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 154,
@@ -1999,7 +2152,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "AHNGYUBACK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 155,
@@ -2012,7 +2166,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "AHNDOGEOL",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 156,
@@ -2025,7 +2180,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "AHNSANGHOON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 157,
@@ -2038,7 +2194,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "AHNCHEOLSOO",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 158,
@@ -2051,7 +2208,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "ANTAEJUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 159,
@@ -2064,7 +2222,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "ANHOYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 160,
@@ -2077,7 +2236,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "YANGMOONSEOK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 161,
@@ -2090,7 +2250,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "YANGBUNAM",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 162,
@@ -2103,7 +2264,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "EOHKIYKU",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 163,
@@ -2116,7 +2278,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "EOMTAEYOUNG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 164,
@@ -2129,7 +2292,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "YEOMTAEYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 165,
@@ -2142,7 +2306,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "OHGIHYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 166,
@@ -2155,7 +2320,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "OHSAEHEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 167,
@@ -2168,7 +2334,8 @@
         "times": "재선",
         "election": "비례대표",
         "en_name": "YONGHYEIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 168,
@@ -2181,7 +2348,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "WOOWONSHIK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 169,
@@ -2194,7 +2362,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "WOOJAEJUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 170,
@@ -2207,7 +2376,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "WISEONGGON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 171,
@@ -2220,7 +2390,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "WISUNGLAC",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 172,
@@ -2233,7 +2404,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "YOODONGSOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 173,
@@ -2246,7 +2418,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "YOOSANGBUM",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 174,
@@ -2259,7 +2432,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "YOOYEONGHA",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 175,
@@ -2272,7 +2446,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "YUYONGWEON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 176,
@@ -2285,7 +2460,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "YOUNKUNYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 177,
@@ -2298,7 +2474,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "YOONSANGHYUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 178,
@@ -2311,7 +2488,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "YOONYOUNGSEOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 179,
@@ -2324,7 +2502,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "YUNJAEOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 180,
@@ -2337,7 +2516,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "YOONJONGKUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 181,
@@ -2350,7 +2530,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "YOONJONGO",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 182,
@@ -2363,7 +2544,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "YOONJOONBYEONG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 183,
@@ -2376,7 +2558,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "YOONHANHONG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 184,
@@ -2389,7 +2572,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "YUNHOJUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 185,
@@ -2402,7 +2586,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "YOONHUDUK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 186,
@@ -2415,7 +2600,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEKANGILL",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 187,
@@ -2428,7 +2614,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "LEEKAIHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 188,
@@ -2441,7 +2628,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEGEONTAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 189,
@@ -2454,7 +2642,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEGOANGHEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 190,
@@ -2467,7 +2656,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEKIHEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 191,
@@ -2480,7 +2670,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "LEEDALHEE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 192,
@@ -2493,7 +2684,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "LEEMANHEE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 193,
@@ -2506,7 +2698,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "YIBYEONGJIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 194,
@@ -2519,7 +2712,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEESANGSIK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 195,
@@ -2532,7 +2726,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEESANGHWI",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 196,
@@ -2545,7 +2740,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEESEONGKWEUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 197,
@@ -2558,7 +2754,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEESUNGYOON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 198,
@@ -2571,7 +2768,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEESOYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 199,
@@ -2584,7 +2782,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEESOOJIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 200,
@@ -2597,7 +2796,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "LEEYANGSOO",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 201,
@@ -2610,7 +2810,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "LEEUNJU",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 202,
@@ -2623,7 +2824,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEYEONHEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 203,
@@ -2636,7 +2838,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEEYONGSUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 204,
@@ -2649,7 +2852,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "YONGWOOLEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 205,
@@ -2662,7 +2866,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEEWONTAEG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 206,
@@ -2675,7 +2880,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEEINSEON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 207,
@@ -2688,7 +2894,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "LEEINYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 208,
@@ -2701,7 +2908,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEJAEGANG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 209,
@@ -2714,7 +2922,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEJAEKWAN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 210,
@@ -2727,7 +2936,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEEJAEMYUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 211,
@@ -2740,7 +2950,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "LEEJAEJUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 212,
@@ -2753,7 +2964,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEEJUNGMUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 213,
@@ -2766,7 +2978,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEJEONGHEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 214,
@@ -2779,7 +2992,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "LEEJONGBAE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 215,
@@ -2792,7 +3006,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEJONHWOOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 216,
@@ -2805,7 +3020,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "JUYOUNGLEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 217,
@@ -2818,7 +3034,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEJUNSEOK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 218,
@@ -2831,7 +3048,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "LEECHULGYU",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 219,
@@ -2844,7 +3062,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "LEECHOONSUAK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 220,
@@ -2857,7 +3076,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "LEEHACKYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 221,
@@ -2870,7 +3090,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "LEEHAIMIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 222,
@@ -2883,7 +3104,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LEEHAESIK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 223,
@@ -2896,7 +3118,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "LEEHUNSEUNG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 224,
@@ -2909,7 +3132,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LEEHOONKI",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 225,
@@ -2922,7 +3146,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "IHNYOHAN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 226,
@@ -2935,7 +3160,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "LIMKWANGHYUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 227,
@@ -2948,7 +3174,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "LIMMIAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 228,
@@ -2961,7 +3188,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LIMOKYEONG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 229,
@@ -2974,7 +3202,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "LIMLEEJA",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 230,
@@ -2987,7 +3216,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "LIMJONGDEUK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 231,
@@ -3000,7 +3230,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "LIMHOSEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 232,
@@ -3013,7 +3244,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "JANGKYUNGTAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 233,
@@ -3026,7 +3258,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "JANGDONGHYEOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 234,
@@ -3039,7 +3272,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHANGJONGTAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 235,
@@ -3052,7 +3286,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "CHULMINJANG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 236,
@@ -3065,7 +3300,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "JEONYONGGI",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 237,
@@ -3078,7 +3314,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "CHUNJAESOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 238,
@@ -3091,7 +3328,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "CHUNJONGDUK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 239,
@@ -3104,7 +3342,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "JEONJINSOOK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 240,
@@ -3117,7 +3356,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "JEONHYUNHEUI",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 241,
@@ -3130,7 +3370,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "JEONGDONGMAN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 242,
@@ -3143,7 +3384,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "CHUNGDONGYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 243,
@@ -3156,7 +3398,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "JUNGSUNGKOOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 244,
@@ -3169,7 +3412,8 @@
         "times": "5선",
         "election": "지역구",
         "en_name": "JUNGSUNGHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 245,
@@ -3182,7 +3426,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "JUNGYEONWOOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 246,
@@ -3195,7 +3440,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "JUNGEULHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 247,
@@ -3208,7 +3454,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "CHUNGILYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 248,
@@ -3221,7 +3468,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "JEONGJEOMSIG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 249,
@@ -3234,7 +3482,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "JEONGJUNHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 250,
@@ -3247,7 +3496,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHUNGCHINOOK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 251,
@@ -3260,7 +3510,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "JUNGCHUNGRAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 252,
@@ -3273,7 +3524,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "CHUNGCHOONSAENG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 253,
@@ -3286,7 +3538,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "JUNGTAEHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 254,
@@ -3299,7 +3552,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "JUNGHYEKYUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 255,
@@ -3312,7 +3566,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "JUNGHEEYONG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 256,
@@ -3325,7 +3580,8 @@
         "times": "6선",
         "election": "지역구",
         "en_name": "CHOKYOUNGTAE",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 257,
@@ -3338,7 +3594,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHOGYEWON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 258,
@@ -3351,7 +3608,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "CHOKUK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 259,
@@ -3364,7 +3622,8 @@
         "times": "5선",
         "election": "비례대표",
         "en_name": "CHOBAESOOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 260,
@@ -3377,7 +3636,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "JOSEOUNGLAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 261,
@@ -3390,7 +3650,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHOSEUNGHWAN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 262,
@@ -3403,7 +3664,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "CHOEUNHEE",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 263,
@@ -3416,7 +3678,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHOINCHEUL",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 264,
@@ -3429,7 +3692,8 @@
         "times": "6선",
         "election": "지역구",
         "en_name": "CHOJEONGSIK",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 265,
@@ -3442,7 +3706,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "CHOJUNGHUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 266,
@@ -3455,7 +3720,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHOJIYEON",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 267,
@@ -3468,7 +3734,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "JOOJINWOO",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 268,
@@ -3481,7 +3748,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "JUCHEOLHYEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 269,
@@ -3494,7 +3762,8 @@
         "times": "6선",
         "election": "지역구",
         "en_name": "JOOHOYOUNG",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 270,
@@ -3507,7 +3776,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "JINSUNMEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 271,
@@ -3520,7 +3790,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "JINSUNGJOON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 272,
@@ -3533,7 +3804,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "JINJONGOH",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 273,
@@ -3546,7 +3818,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "CHAGYUGEUN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 274,
@@ -3559,7 +3832,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHAJIHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 275,
@@ -3572,7 +3846,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHAIHYUNIL",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 276,
@@ -3585,7 +3860,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "CHEONJUNHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 277,
@@ -3598,7 +3874,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "CHUNHARAM",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 278,
@@ -3611,7 +3888,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "CHOIKISANG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 279,
@@ -3624,7 +3902,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "CHOIMinhee",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 280,
@@ -3637,7 +3916,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "CHOIBOYUN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 281,
@@ -3650,7 +3930,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "CHOISOOJIN",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 282,
@@ -3663,7 +3944,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "CHOIEUNSEOK",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 283,
@@ -3676,7 +3958,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "CHOIHYUNGDU",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 284,
@@ -3689,7 +3972,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "CHOOKYUNGHO",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 285,
@@ -3702,7 +3986,8 @@
         "times": "6선",
         "election": "지역구",
         "en_name": "CHOOMIAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 286,
@@ -3715,7 +4000,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "HANKIHO",
-        "d1207": false
+        "d1207": false,
+        "d1203": false
     },
     {
         "index": 287,
@@ -3728,7 +4014,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "HANMINSOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 288,
@@ -3741,7 +4028,8 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "HANBYUNGDO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 289,
@@ -3754,7 +4042,8 @@
         "times": "4선",
         "election": "지역구",
         "en_name": "HANJEOUNGAE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 290,
@@ -3767,7 +4056,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "HANJUNHO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 291,
@@ -3780,7 +4070,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "HANZEEA",
-        "d1207": false
+        "d1207": false,
+        "d1203": true
     },
     {
         "index": 292,
@@ -3793,7 +4084,8 @@
         "times": "초선",
         "election": "비례대표",
         "en_name": "HANCHANGMIN",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 293,
@@ -3806,7 +4098,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "HUHSUNGMOO",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 294,
@@ -3819,7 +4112,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "HUHYOUNG",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 295,
@@ -3832,7 +4126,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "HEOJONGSIK",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 296,
@@ -3845,7 +4140,8 @@
         "times": "재선",
         "election": "지역구",
         "en_name": "HONGKEEWON",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 297,
@@ -3858,7 +4154,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "HWANGMYEONGSEON",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 298,
@@ -3871,7 +4168,8 @@
         "times": "재선",
         "election": "비례대표",
         "en_name": "HWANGUNHA",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     },
     {
         "index": 299,
@@ -3884,7 +4182,8 @@
         "times": "초선",
         "election": "지역구",
         "en_name": "HWANGJUNGA",
-        "d1207": true
+        "d1207": true,
+        "d1203": false
     },
     {
         "index": 300,
@@ -3897,6 +4196,7 @@
         "times": "3선",
         "election": "지역구",
         "en_name": "HWANGHEE",
-        "d1207": true
+        "d1207": true,
+        "d1203": true
     }
 ]
