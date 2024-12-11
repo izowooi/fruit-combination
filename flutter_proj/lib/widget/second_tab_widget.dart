@@ -5,14 +5,14 @@ import 'package:fruit_combination/controller/fruit_data_controller.dart';
 import 'package:fruit_combination/widget/loading_widget.dart';
 import 'card_select_widget.dart';
 
-class FirstTabWidget extends ConsumerStatefulWidget {
-  FirstTabWidget({Key? key}) : super(key: key);
+class SecondTabWidget extends ConsumerStatefulWidget {
+  SecondTabWidget({Key? key}) : super(key: key);
 
   @override
-  _FirstTabWidgetState createState() => _FirstTabWidgetState();
+  _SecondTabWidgetState createState() => _SecondTabWidgetState();
 }
 
-class _FirstTabWidgetState extends ConsumerState<FirstTabWidget> {
+class _SecondTabWidgetState extends ConsumerState<SecondTabWidget> {
   List<String> cardIndex = List.generate(
     300,
     (index) => (index+1).toString().padLeft(3, '0'),
@@ -46,12 +46,12 @@ class _FirstTabWidgetState extends ConsumerState<FirstTabWidget> {
         children: [
           Scaffold(
             appBar: AppBar(
-              title: const Text('12.3 내란'),
+              title: const Text('12.7 탄핵'),
             ),
             body: Container(
               child: CardSelectWidget(
-                appBarTitle: '12.3 내란',
-                pickMessage: '계엄을 무효화할 용기있는 의원 3명을 선택해주세요',
+                appBarTitle: '12.7 탄핵 투표',
+                pickMessage: '투표에 참여할 3명을 선택해주세요',
                 cardIndex: cardIndex,
                 controllers: controllers,
                 onShuffle: shuffleImages,

@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:fruit_combination/controller/fruit_data_controller.dart';
 import 'package:fruit_combination/widget/first_tab_widget.dart';
+import 'package:fruit_combination/widget/second_tab_widget.dart';
 import 'package:fruit_combination/widget/settings_widget.dart';
 
 final navigationIndexProvider = StateProvider<int>((ref) {
@@ -37,8 +38,8 @@ class MainApp extends ConsumerWidget {
         return Scaffold(
         bottomNavigationBar: NavigationBar(
         destinations: const [
+          NavigationDestination(icon: Icon(Icons.shield_moon_outlined), label: '12.3 내란'),
           NavigationDestination(icon: Icon(Icons.how_to_vote), label: '12.7 탄핵'),
-          // NavigationDestination(icon: Icon(Icons.how_to_vote), label: '12.14 탄핵'),
           // NavigationDestination(icon: Icon(Icons.emoji_events), label: '리더보드'),
           NavigationDestination(icon: Icon(Icons.settings), label: '설정'),
         ],
@@ -52,6 +53,7 @@ class MainApp extends ConsumerWidget {
           index: currentPageIndex,
           children: [
             FirstTabWidget(),
+            SecondTabWidget(),
             //SettingsWidget(),
             // FirstTabWidget(),
             // FirstTabWidget(),
