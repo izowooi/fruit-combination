@@ -14,11 +14,11 @@ class FirstTabWidget extends ConsumerStatefulWidget {
 
 class _FirstTabWidgetState extends ConsumerState<FirstTabWidget> {
   List<String> cardIndex = List.generate(
-    100,
-    (index) => index.toString().padLeft(3, '0'),
+    300,
+    (index) => (index+1).toString().padLeft(3, '0'),
   );
 
-  List<FlipCardController> controllers = List.generate(100, (_) => FlipCardController());
+  List<FlipCardController> controllers = List.generate(300, (_) => FlipCardController());
   
   @override
   void initState() {

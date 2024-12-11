@@ -12,6 +12,17 @@ class FruitResultWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+  WidgetsBinding.instance.addPostFrameCallback((_) {
+    bool allParticipated = cardDataList.every((cardData) => cardData.participated);
+    bool anyNotParticipated = cardDataList.any((cardData) => !cardData.participated);
+
+    if (allParticipated) {
+      _showResultDialog(context, "탄핵이 가결되었습니다");
+    } else if (anyNotParticipated) {
+      _showResultDialog(context, "탄핵이 부결되었습니다.");
+    }
+  });
+
     return Scaffold(
       appBar: AppBar(
         title: Text(title),
@@ -28,6 +39,25 @@ class FruitResultWidget extends StatelessWidget {
       ),
     );
   }
+}
+
+void _showResultDialog(BuildContext context, String message) {
+  showDialog(
+    context: context,
+    builder: (BuildContext context) {
+      return AlertDialog(
+        title: Text(message),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Navigator.of(context).pop(); // 팝업 닫기
+            },
+            child: Text("확인"),
+          ),
+        ],
+      );
+    },
+  );
 }
 
 class FruitCardDescription extends StatelessWidget {
