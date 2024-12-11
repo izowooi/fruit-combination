@@ -42,9 +42,6 @@ class _FirstTabWidgetState extends ConsumerState<FirstTabWidget> {
     bool showLoadingOverlay = ref.watch(isLoading);
 
     return ProviderScope(
-      overrides: [
-        interpretationProvider.overrideWithValue((String cardIndex, int index) => FruitDataController().getFruitName(cardIndex)),
-      ],
       child: Stack(
         children: [
           Scaffold(

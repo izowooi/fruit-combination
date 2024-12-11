@@ -5,9 +5,9 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:fruit_combination/controller/fruit_data_controller.dart';
 import 'package:gap/gap.dart';
 
-final interpretationProvider = Provider<Function(String, int)>((ref) {
-  return (String cardIndex,int index) => FruitDataController().getYearlyInterpretation(cardIndex, index);
-});
+// final interpretationProvider = Provider<Function(String, int)>((ref) {
+//   return (String cardIndex,int index) => FruitDataController().(cardIndex, index);
+// });
 
 class CardSelectWidget extends ConsumerStatefulWidget {
   final String appBarTitle;
@@ -40,15 +40,23 @@ class _CardSelectWidgetState extends ConsumerState<CardSelectWidget> {
   
   void _selectCard(int index) {
     final cardIndex = widget.cardIndex[index];
-    final cardPath = 'assets/images/portrait/fruit_$cardIndex.jpeg';
-    final cardTitle = FruitDataController().getFruitName(cardIndex);
-    final cardContent = ref.read(interpretationProvider)(cardIndex, selectedCards.length);
+    final cardPath = 'assets/images/portrait/fruit_$cardIndex.jpg';
+    final fruitName = FruitDataController().fruitMap[int.parse(cardIndex)]!.name;
+    final party = FruitDataController().fruitMap[int.parse(cardIndex)]!.party;
+    final region = FruitDataController().fruitMap[int.parse(cardIndex)]!.region;
+    final times = FruitDataController().fruitMap[int.parse(cardIndex)]!.times;
+    final fruitBriefDesc = '$party | $region | $times';
+    const electionDesc = "계엄 선포 무효화에 ";
+    final participated = FruitDataController().fruitMap[int.parse(cardIndex)]!.d1207;
 
     selectedCards.add(
       FruitCardData(
       imagePath: cardPath,
-      title: cardTitle,
-      content: cardContent,)
+      fruitName: fruitName,
+      briefDesc: fruitBriefDesc,
+      electionDesc: electionDesc,
+      participated: participated,
+      )
     );
   }
   
@@ -65,9 +73,10 @@ class _CardSelectWidgetState extends ConsumerState<CardSelectWidget> {
       final controller = widget.controllers[cardIndex];
       await controller.flipcard();
     }
+    showResultWidget();
   }
 
-  void _onFlipEnd() async {
+  void showResultWidget() async {
     await Navigator.push(
       context,
       MaterialPageRoute(

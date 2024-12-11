@@ -38,36 +38,83 @@ class FruitCardDescription extends StatelessWidget {
     Key? key,
   }) : super(key: key);
 
+  void onViewDetails() {
+  }
+
   @override
   Widget build(BuildContext context) {
+    var participated = data.participated;
     return Card(
+      color: participated ? Colors.green[100] : Colors.red[100],
       margin: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
       child: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            Align(
+              alignment: Alignment.center,
+              child: Text(
+                data.fruitName,
+                style: Theme.of(context).textTheme.headlineSmall?.copyWith(fontWeight: FontWeight.bold),
+              ),
+            ),
             // 카드 이미지
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 40.0, vertical: 10.0),
-              child: Image.asset(data.imagePath,
-              fit: BoxFit.cover,),
+              child: Align(
+                alignment: Alignment.center,
+                child: Container(
+                  width: 300, // 원하는 너비로 설정
+                  height: 300, // 원하는 높이로 설정
+                  child: Image.asset(
+                    data.imagePath,
+                    fit: BoxFit.cover,
+                  ),
+                ),
+              ),
             ),
+            const SizedBox(height: 2.0),
 
-            const SizedBox(height: 8.0),
-
-            // 카드 제목
-            Text(
-              data.title,
-              style: Theme.of(context).textTheme.titleMedium,
+            Align(
+              alignment: Alignment.center,
+              child: Text(
+                //조국혁신당 | 비례대표 | 초선
+                data.briefDesc,
+                style: Theme.of(context).textTheme.bodyLarge,
+              ),
             ),
+            
+            const SizedBox(height: 2.0),
 
-            const SizedBox(height: 8.0),
-
-            // 카드 내용
-            Text(
-              data.content,
-              style: Theme.of(context).textTheme.bodyMedium,
+            // 참여 여부 강조
+            Row(
+              children: [
+                Text(
+                  //"계엄 선포 무효화에 ",
+                  data.electionDesc,
+                  style: Theme.of(context).textTheme.bodyLarge,
+                ),
+                Text(
+                  participated ? "참여하였습니다." : "불참하였습니다.",
+                  style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                    fontWeight: FontWeight.bold,
+                    color: participated ? Colors.green : Colors.red,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 2.0),
+            // 버튼
+            Align(
+              alignment: Alignment.center,
+              child: ElevatedButton(
+                onPressed: onViewDetails,
+                style: ElevatedButton.styleFrom(
+                  padding: const EdgeInsets.symmetric(horizontal: 24.0, vertical: 12.0),
+                ),
+                child: const Text("의원 정보 보기"),
+              ),
             ),
           ],
         ),
@@ -78,12 +125,16 @@ class FruitCardDescription extends StatelessWidget {
 
 class FruitCardData {
   final String imagePath;
-  final String title;
-  final String content;
+  final String fruitName;
+  final String briefDesc;
+  final String electionDesc;
+  final bool participated;
 
   FruitCardData({
     required this.imagePath,
-    required this.title,
-    required this.content,
+    required this.fruitName,
+    required this.briefDesc,
+    required this.electionDesc,
+    required this.participated,
   });
 }

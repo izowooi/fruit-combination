@@ -26,3 +26,4 @@ doc/api/
 .flutter-plugins
 .flutter-plugins-dependencies
 PythonProject/images/
+PythonProject/error_log.txt
