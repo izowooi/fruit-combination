@@ -18,6 +18,7 @@ class CardSelectWidget extends ConsumerStatefulWidget {
   final VoidCallback onShuffle;
   final int maxSelectableCards;
   final FruitResultData fruitResultData;
+  final String tabName;
 
   CardSelectWidget({
     required this.appBarTitle,
@@ -27,6 +28,7 @@ class CardSelectWidget extends ConsumerStatefulWidget {
     required this.onShuffle,
     required this.maxSelectableCards,
     required this.fruitResultData,
+    required this.tabName,
   });
 
   @override
@@ -49,7 +51,9 @@ class _CardSelectWidgetState extends ConsumerState<CardSelectWidget> {
     final region = FruitDataController().fruitMap[int.parse(cardIndex)]!.region;
     final times = FruitDataController().fruitMap[int.parse(cardIndex)]!.times;
     final fruitBriefDesc = '$party | $region | $times';
-    final participated = FruitDataController().fruitMap[int.parse(cardIndex)]!.d1207;
+    final participated = (widget.tabName == "first")
+      ? FruitDataController().fruitMap[int.parse(cardIndex)]!.d1203
+      : FruitDataController().fruitMap[int.parse(cardIndex)]!.d1207;
 
     selectedCards.add(
       FruitCardData(

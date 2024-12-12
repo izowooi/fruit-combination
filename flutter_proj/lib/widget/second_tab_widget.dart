@@ -66,6 +66,7 @@ class _SecondTabWidgetState extends ConsumerState<SecondTabWidget> {
                 onShuffle: shuffleImages,
                 maxSelectableCards: 3,
                 fruitResultData: fruitResultData,
+                tabName: "second",
               ),
             ),
           ),

@@ -134,7 +134,7 @@ class FruitCardDescription extends StatelessWidget {
                   style: Theme.of(context).textTheme.bodyLarge,
                 ),
                 Text(
-                  participated ? resultData.election_suffix_participate : resultData.election_suffix_participate,
+                  participated ? resultData.election_suffix_participate : resultData.election_suffix_not_participate,
                   style: Theme.of(context).textTheme.bodyLarge?.copyWith(
                     fontWeight: FontWeight.bold,
                     color: participated ? Colors.green : Colors.red,

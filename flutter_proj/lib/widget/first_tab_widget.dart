@@ -74,6 +74,7 @@ class _FirstTabWidgetState extends ConsumerState<FirstTabWidget> {
                 onShuffle: shuffleImages,
                 maxSelectableCards: 3,
                 fruitResultData: fruitResultData,
+                tabName: "first",
               ),
             ),
           ),
