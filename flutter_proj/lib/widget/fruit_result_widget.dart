@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fruit_combination/data/fruit_result_data.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class FruitResultWidget extends StatelessWidget {
   final String title; // 결과 화면의 제목
@@ -75,7 +76,12 @@ class FruitCardDescription extends StatelessWidget {
     Key? key,
   }) : super(key: key);
 
-  void onViewDetails() {
+  Future<void> _launchUrl(String urlSuffix) async {
+    var url = 'https://www.assembly.go.kr/members/22nd/$urlSuffix';
+    Uri _url = Uri.parse(url);
+    if (!await launchUrl(_url)) {
+      throw Exception('Could not launch $_url');
+    }
   }
 
   @override
@@ -147,7 +153,9 @@ class FruitCardDescription extends StatelessWidget {
             Align(
               alignment: Alignment.center,
               child: ElevatedButton(
-                onPressed: onViewDetails,
+                onPressed: () {
+                  _launchUrl(data.fruitEnName);
+                },
                 style: ElevatedButton.styleFrom(
                   padding: const EdgeInsets.symmetric(horizontal: 24.0, vertical: 12.0),
                 ),
@@ -164,6 +172,7 @@ class FruitCardDescription extends StatelessWidget {
 class FruitCardData {
   final String imagePath;
   final String fruitName;
+  final String fruitEnName;
   final String briefDesc;
   final String electionDesc;
   final bool participated;
@@ -171,6 +180,7 @@ class FruitCardData {
   FruitCardData({
     required this.imagePath,
     required this.fruitName,
+    required this.fruitEnName,
     required this.briefDesc,
     required this.electionDesc,
     required this.participated,

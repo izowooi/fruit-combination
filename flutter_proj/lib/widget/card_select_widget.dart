@@ -47,6 +47,7 @@ class _CardSelectWidgetState extends ConsumerState<CardSelectWidget> {
     final cardIndex = widget.cardIndex[index];
     final cardPath = 'assets/images/portrait/fruit_$cardIndex.jpg';
     final fruitName = FruitDataController().fruitMap[int.parse(cardIndex)]!.name;
+    final fruitEnName = FruitDataController().fruitMap[int.parse(cardIndex)]!.enName;
     final party = FruitDataController().fruitMap[int.parse(cardIndex)]!.party;
     final region = FruitDataController().fruitMap[int.parse(cardIndex)]!.region;
     final times = FruitDataController().fruitMap[int.parse(cardIndex)]!.times;
@@ -59,6 +60,7 @@ class _CardSelectWidgetState extends ConsumerState<CardSelectWidget> {
       FruitCardData(
       imagePath: cardPath,
       fruitName: fruitName,
+      fruitEnName: fruitEnName,
       briefDesc: fruitBriefDesc,
       electionDesc: widget.fruitResultData.election_prefix,
       participated: participated,
