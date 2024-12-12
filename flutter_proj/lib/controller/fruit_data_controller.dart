@@ -10,6 +10,7 @@ class Fruit {
   final String times;
   final String election;
   final String enName;
+  final bool d1203;
   final bool d1207;
 
   Fruit({
@@ -21,6 +22,7 @@ class Fruit {
     required this.times,
     required this.election,
     required this.enName,
+    required this.d1203,
     required this.d1207,
   });
 
@@ -33,14 +35,15 @@ class Fruit {
       region: json['region'],
       times: json['times'],
       election: json['election'],
-      enName: json['en_name'], // JSON 키가 en_name임에 주의
+      enName: json['en_name'],
+      d1203: json['d1203'],
       d1207: json['d1207'],
     );
   }
 
   @override
   String toString() {
-    return 'Fruit{index: $index, name: $name, party: $party, committee: $committee, region: $region, times: $times, election: $election, enName: $enName, d1207: $d1207}';
+    return 'Fruit{index: $index, name: $name, party: $party, committee: $committee, region: $region, times: $times, election: $election, enName: $enName, d1203: $d1203, d1207: $d1207}';
   }
 }
 
@@ -80,4 +83,10 @@ class FruitDataController {
   String getFruitName(int index) {
     return fruitMap[index]?.name ?? "Unknown";
   }
+
+  // check d1203 is true
+  bool isD1203(int index) {
+    return fruitMap[index]?.d1203 ?? false;
+  }
+
 }

@@ -1,12 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:fruit_combination/data/fruit_result_data.dart';
 
 class FruitResultWidget extends StatelessWidget {
   final String title; // 결과 화면의 제목
+  final FruitResultData resultData; // 결과 데이터
   final List<FruitCardData> cardDataList; // 사용자가 고른 카드 데이터 리스트
 
   const FruitResultWidget({
     required this.title,
     required this.cardDataList,
+    required this.resultData,
     Key? key,
   }) : super(key: key);
 
@@ -17,9 +20,9 @@ class FruitResultWidget extends StatelessWidget {
     bool anyNotParticipated = cardDataList.any((cardData) => !cardData.participated);
 
     if (allParticipated) {
-      _showResultDialog(context, "탄핵이 가결되었습니다");
+      _showResultDialog(context, resultData.message_win);
     } else if (anyNotParticipated) {
-      _showResultDialog(context, "탄핵이 부결되었습니다.");
+      _showResultDialog(context, resultData.message_lose);
     }
   });
 
@@ -33,7 +36,9 @@ class FruitResultWidget extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             // 사용자가 고른 카드 설명
-            ...cardDataList.map((cardData) => FruitCardDescription(data: cardData)).toList(),
+            ...cardDataList.map((cardData) => FruitCardDescription(data: cardData,
+            resultData: resultData,
+            )).toList(),
           ],
         ),
       ),
@@ -62,9 +67,11 @@ void _showResultDialog(BuildContext context, String message) {
 
 class FruitCardDescription extends StatelessWidget {
   final FruitCardData data;
+  final FruitResultData resultData;
 
   const FruitCardDescription({
     required this.data,
+    required this.resultData,
     Key? key,
   }) : super(key: key);
 
@@ -74,6 +81,7 @@ class FruitCardDescription extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var participated = data.participated;
+
     return Card(
       color: participated ? Colors.green[100] : Colors.red[100],
       margin: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
@@ -126,7 +134,7 @@ class FruitCardDescription extends StatelessWidget {
                   style: Theme.of(context).textTheme.bodyLarge,
                 ),
                 Text(
-                  participated ? "참여하였습니다." : "불참하였습니다.",
+                  participated ? resultData.election_suffix_participate : resultData.election_suffix_participate,
                   style: Theme.of(context).textTheme.bodyLarge?.copyWith(
                     fontWeight: FontWeight.bold,
                     color: participated ? Colors.green : Colors.red,

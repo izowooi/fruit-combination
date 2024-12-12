@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_flip_card/flutter_flip_card.dart';
 import 'package:fruit_combination/controller/fruit_data_controller.dart';
+import 'package:fruit_combination/data/fruit_result_data.dart';
 import 'package:fruit_combination/widget/loading_widget.dart';
 import 'card_select_widget.dart';
 
@@ -41,6 +42,14 @@ class _SecondTabWidgetState extends ConsumerState<SecondTabWidget> {
   Widget build(BuildContext context) {
     bool showLoadingOverlay = ref.watch(isLoading);
 
+    FruitResultData fruitResultData = FruitResultData(
+      message_win: '탄핵이 가결되었습니다!',
+      message_lose: '탄핵이 부결되었습니다',
+      election_prefix: '탄핵 투표에 ',
+      election_suffix_participate: '참여하셨습니다.',
+      election_suffix_not_participate: '불참하였습니다.',
+    );
+
     return ProviderScope(
       child: Stack(
         children: [
@@ -56,6 +65,7 @@ class _SecondTabWidgetState extends ConsumerState<SecondTabWidget> {
                 controllers: controllers,
                 onShuffle: shuffleImages,
                 maxSelectableCards: 3,
+                fruitResultData: fruitResultData,
               ),
             ),
           ),

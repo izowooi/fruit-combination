@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_flip_card/flutter_flip_card.dart';
+import 'package:fruit_combination/data/fruit_result_data.dart';
 import 'package:fruit_combination/widget/fruit_result_widget.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:fruit_combination/controller/fruit_data_controller.dart';
@@ -16,6 +17,7 @@ class CardSelectWidget extends ConsumerStatefulWidget {
   final List<FlipCardController> controllers;
   final VoidCallback onShuffle;
   final int maxSelectableCards;
+  final FruitResultData fruitResultData;
 
   CardSelectWidget({
     required this.appBarTitle,
@@ -24,6 +26,7 @@ class CardSelectWidget extends ConsumerStatefulWidget {
     required this.controllers,
     required this.onShuffle,
     required this.maxSelectableCards,
+    required this.fruitResultData,
   });
 
   @override
@@ -46,7 +49,6 @@ class _CardSelectWidgetState extends ConsumerState<CardSelectWidget> {
     final region = FruitDataController().fruitMap[int.parse(cardIndex)]!.region;
     final times = FruitDataController().fruitMap[int.parse(cardIndex)]!.times;
     final fruitBriefDesc = '$party | $region | $times';
-    const electionDesc = "계엄 선포 무효화에 ";
     final participated = FruitDataController().fruitMap[int.parse(cardIndex)]!.d1207;
 
     selectedCards.add(
@@ -54,7 +56,7 @@ class _CardSelectWidgetState extends ConsumerState<CardSelectWidget> {
       imagePath: cardPath,
       fruitName: fruitName,
       briefDesc: fruitBriefDesc,
-      electionDesc: electionDesc,
+      electionDesc: widget.fruitResultData.election_prefix,
       participated: participated,
       )
     );
@@ -83,6 +85,7 @@ class _CardSelectWidgetState extends ConsumerState<CardSelectWidget> {
         builder: (context) => FruitResultWidget(
           title: widget.appBarTitle,
           cardDataList: selectedCards,
+          resultData: widget.fruitResultData,
         ),
       ),
     );
